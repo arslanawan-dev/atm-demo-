@@ -1,2 +1,2 @@
 # atm-demo
-htis is first git repository.
+this is first git repository.
