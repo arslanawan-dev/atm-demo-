@@ -1,4 +1,6 @@
  # atm-demo
 This is first git repository.
 <br>
-Author-Arslan Awan
+Author - Arslan (dev) 
+<br>
+I am learning Git and GitHub.
